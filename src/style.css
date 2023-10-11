@@ -1765,7 +1765,7 @@ img .living-img {
 
   .container-grid {
     margin: 0 0.5rem;
-    margin-bottom: 10rem;
+    margin-bottom: 25rem;
     grid-template-columns: 1fr;
     grid-template-rows: 0.4fr minmax(30vh, 10fr) minmax(40vh, 10fr) 5fr 5fr 5fr 5fr;
     grid-gap: 0.5rem;
