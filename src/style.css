@@ -1710,6 +1710,10 @@ img .living-img {
     align-items: center;
   }
 
+  .user-form {
+    margin: 0rem 0.5rem;
+  }
+
   input {
     width: 100%;
   }
