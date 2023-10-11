@@ -1703,6 +1703,7 @@ img .living-img {
   }
 
   /* --- Login Form --- */
+
   .login-form {
     display: flex;
     flex-direction: column;
@@ -1719,8 +1720,13 @@ img .living-img {
     width: 100%;
   }
 
+  .buttons {
+    position: relative;
+    top: 0.4rem;
+  }
+
   .button {
-    padding: 0rem 0.7rem;
+    padding: 0.1rem 0.7rem;
     margin: 0.5rem;
   }
 
