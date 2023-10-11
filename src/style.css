@@ -1710,7 +1710,8 @@ img .living-img {
     align-items: center;
   }
 
-  .user-form {
+  .user-form,
+  .psw-form {
     margin: 0rem 0.5rem;
   }
 
@@ -1720,7 +1721,7 @@ img .living-img {
 
   .button {
     padding: 0rem 0.7rem;
-    margin: 0rem;
+    margin: 0.5rem;
   }
 
   /* --- Portrait Cards --- */
